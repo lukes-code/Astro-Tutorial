@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Build output
+dist/
+public/
+
+# Dependency directories
+.cache/
+
+# Environment variables
+.env
+
+# Log files
+logs/
+*.log
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
